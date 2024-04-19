@@ -793,7 +793,7 @@ if(isset($_SESSION['email']) )
     </section>
      <footer>
         <p>© 2023 - 2024</p>
-        <p><a id="sphynx" href="https://github.com/Sphynx6">kooding04</a></p>
+        <p><a id="sphynx" href="https://github.com/Moetaz-Maamouri">kooding04</a></p>
     </footer>
 
     <script src="script.js"></script>
